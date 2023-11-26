@@ -1,0 +1,2 @@
+markov_clustering==0.0.6.dev0
+networkx==2.5.1
